@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/LoquaciousDandy/dash-for-the-bus#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "express": "^4.16.3",
-    "mongoose": "^5.0.12"
+    "mongoose": "^5.0.12",
+    "request": "^2.85.0"
   }
 }
